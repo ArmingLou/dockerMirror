@@ -1,0 +1,1 @@
+gcr.io/gochain-core/gochain:stable
